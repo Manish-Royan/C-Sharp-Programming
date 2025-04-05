@@ -6,7 +6,8 @@
         {   
             //Displaying Text
             Console.Write("Hey!");
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");//WriteLine is a method of the Console class defined in the System namespace.
+
 
             //Performing mathematical calculation
             Console.WriteLine(4 + 5);
