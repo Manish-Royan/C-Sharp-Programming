@@ -26,6 +26,7 @@
             Console.WriteLine("Name: {0}, Age: {1}", name, age);
             Console.WriteLine($"Name: {name}, Age: {age}");
 
+            Console.ReadKey(); //prevent program from ending until we type a key
         }
     }
 }
